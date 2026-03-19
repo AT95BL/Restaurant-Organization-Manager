@@ -141,9 +141,23 @@ Launch `Main.java` as the main class.
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-> *Coming soon*
+> Menu — authenticated user
+
+![Menu](screenshots/menu.png)
+
+> Orders — authenticated user
+
+![Orders](screenshots/orders.png)
+
+> Reservations — authenticated user
+
+![Reservations](screenshots/reservations.png)
+
+> Login screen with guest preview option
+
+![Login](screenshots/login.png)
 
 ---
 
