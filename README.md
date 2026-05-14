@@ -195,9 +195,11 @@ restoran/
 
 ## 👤 Author
 
-**AT95BL**
-[GitHub](https://github.com/AT95BL))  
-[LinkedIn]([https://www.linkedin.com/in/andrej-tro%C5%BEi%C4%87-57957122b/)
+**Andrej Trožić** *Software Developer specializing in Backend Systems & Infrastructure*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrej_Trožić-blue?logo=linkedin)](https://www.linkedin.com/in/andrej-tro%C5%BEi%C4%87-57957122b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-AT95BL-black?logo=github)](https://github.com/AT95BL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-andrejtrozic.com-green)](https://andrejtrozic.com)
 
 ---
 
