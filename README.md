@@ -196,7 +196,8 @@ restoran/
 ## 👤 Author
 
 **AT95BL**
-[GitHub](https://github.com/AT95BL)) · [LinkedIn]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/andrej-tro%C5%BEi%C4%87-57957122b/))
+[GitHub](https://github.com/AT95BL))  
+[LinkedIn]([https://www.linkedin.com/in/andrej-tro%C5%BEi%C4%87-57957122b/)
 
 ---
 
