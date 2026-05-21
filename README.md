@@ -111,6 +111,15 @@ cd restoran
 mysql -u root -p < sql/01_restoran_ddl.sql
 mysql -u root -p < sql/02_restoran_views_triggers_procedures.sql
 mysql -u root -p < sql/03_restoran_testni_podaci.sql
+
+In terminal, run the following:
+mysql -u root -pStrongPassword123! restoran -e "
+CREATE OR REPLACE VIEW allemployees AS
+  SELECT e.id, e.name, e.email, e.phone, e.salary,
+         e.Role_id AS role_id,
+         r.name AS role_name
+  FROM employee e
+  JOIN role r ON e.Role_id = r.id;"
 ```
 
 ### 3. Configure the connection
