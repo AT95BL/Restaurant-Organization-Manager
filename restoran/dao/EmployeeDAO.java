@@ -24,7 +24,7 @@ public class EmployeeDAO {
             Employee e = new Employee(
                 rs.getInt("id"), rs.getString("name"),
                 rs.getString("email"), rs.getString("phone"),
-                rs.getDouble("salary"), rs.getInt("Role_id"),
+                rs.getDouble("salary"), rs.getInt("role_id"),
                 rs.getString("role_name")
             );
             list.add(e);
